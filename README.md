@@ -21,3 +21,11 @@ To test this project, perform the following steps:
      1/2
    The following message is displayed.
      Operation not found!
+
+
+References
+==========
+* [Managed Extensibility Framework on MSDN](http://msdn.microsoft.com/en-us/library/dd460648(v=vs.110).aspx)
+* [Managed Extensibility framework on Wikipedia](http://en.wikipedia.org/wiki/Managed_Extensibility_Framework)
+* [MEF on CodePlex](https://mef.codeplex.com/)
+* [Simple Calculator MEF Application](https://code.msdn.microsoft.com/windowsdesktop/Simple-Calculator-MEF-1152654e/)
